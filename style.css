@@ -1,0 +1,17 @@
+BODY {
+    BACKGROUND-COLOR:#FFDAF1;
+    TEXT-ALIGN: CENTER;
+    FONT-FAMILY:ARIAL;
+}
+H1 {
+    COLOR:#70153C;
+    }
+    H2 {
+        COLOR:#75163F;
+    }
+    H3 {
+        COLOR: #451F1C;
+    }
+    BUTTON {
+    ACKGROUND-COLOR:#EF88BE;
+    }
